@@ -1,0 +1,2 @@
+# tperez
+Modeling Static Friction
